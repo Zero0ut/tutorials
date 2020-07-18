@@ -1,0 +1,8 @@
+zuul:
+  routes:
+    student:
+      path: /student/**
+      serviceId: myserver
+    myserver_another_path:
+      path: /anotherpath/**
+      serviceId: myserver
