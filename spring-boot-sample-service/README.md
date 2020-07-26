@@ -22,3 +22,11 @@ The following guides illustrate how to use some features concretely:
 * [Serving Web Content with Spring MVC](https://spring.io/guides/gs/serving-web-content/)
 * [Building REST services with Spring](https://spring.io/guides/tutorials/bookmarks/)
 
+### Useful References
+
+Using SocketUtils to set random the port
+https://www.javacodemonk.com/setting-a-random-port-in-spring-boot-application-at-startup-87022e01
+
+Report of a projects dependencies
+mvn project-info-reports:dependencies
+https://www.pkimber.net/howto/java/maven/plugin/project-info-reports.html
